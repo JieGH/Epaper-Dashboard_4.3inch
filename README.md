@@ -3,7 +3,7 @@ A epaper dashboard based on Waveshare 4.3 inch epaper display and ESP8266 to dis
 
 Version 0.1 
 
-- Issues: 1) Poorly RAM managenment, code is poorly wrriten 2) Ramdomdly unable to fetch weather information 2) Most of the Code has no comments 
+- Issues: 1) Poorly RAM managenment, code is poorly wrriten 2) Ramdomdly unable to fetch weather information 3) Most of the Code has no comments 
 
 This project received great help from Github user G6EJD https://github.com/G6EJD/ESP32-8266-ePaper-Serial-UART-Wx-Display and arduinojson https://arduinojson.org/v5/example/
 
